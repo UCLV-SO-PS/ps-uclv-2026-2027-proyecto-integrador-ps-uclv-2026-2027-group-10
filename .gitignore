@@ -1,0 +1,4 @@
+# Solo se ignoran los objetos intermedios.
+# Los artefactos exigidos por la entrega (libmonitor.a, server, client)
+# deben permanecer visibles en la raiz del repositorio.
+*.o
